@@ -1,0 +1,7 @@
+C:\Users\Haseeb\Desktop\Current projects\Project 2 part 2 v4 Bank Management system\Project 2 part 2 v4 Bank Management system\bin\Debug\Project 2 part 2 v4 Bank Management system.exe.config
+C:\Users\Haseeb\Desktop\Current projects\Project 2 part 2 v4 Bank Management system\Project 2 part 2 v4 Bank Management system\bin\Debug\Project 2 part 2 v4 Bank Management system.exe
+C:\Users\Haseeb\Desktop\Current projects\Project 2 part 2 v4 Bank Management system\Project 2 part 2 v4 Bank Management system\bin\Debug\Project 2 part 2 v4 Bank Management system.pdb
+C:\Users\Haseeb\Desktop\Current projects\Project 2 part 2 v4 Bank Management system\Project 2 part 2 v4 Bank Management system\obj\Debug\Project 2 part 2 v4 Bank Management system.csproj.AssemblyReference.cache
+C:\Users\Haseeb\Desktop\Current projects\Project 2 part 2 v4 Bank Management system\Project 2 part 2 v4 Bank Management system\obj\Debug\Project 2 part 2 v4 Bank Management system.csproj.CoreCompileInputs.cache
+C:\Users\Haseeb\Desktop\Current projects\Project 2 part 2 v4 Bank Management system\Project 2 part 2 v4 Bank Management system\obj\Debug\Project 2 part 2 v4 Bank Management system.exe
+C:\Users\Haseeb\Desktop\Current projects\Project 2 part 2 v4 Bank Management system\Project 2 part 2 v4 Bank Management system\obj\Debug\Project 2 part 2 v4 Bank Management system.pdb

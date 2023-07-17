@@ -1,0 +1,14 @@
+C:\Users\Haseeb\source\repos\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\bin\Debug\PROJ 2 PART2 V1 Bank Management system.exe.config
+C:\Users\Haseeb\source\repos\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\bin\Debug\PROJ 2 PART2 V1 Bank Management system.exe
+C:\Users\Haseeb\source\repos\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\bin\Debug\PROJ 2 PART2 V1 Bank Management system.pdb
+C:\Users\Haseeb\source\repos\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\obj\Debug\PROJ 2 PART2 V1 Bank Management system.csproj.AssemblyReference.cache
+C:\Users\Haseeb\source\repos\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\obj\Debug\PROJ 2 PART2 V1 Bank Management system.csproj.CoreCompileInputs.cache
+C:\Users\Haseeb\source\repos\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\obj\Debug\PROJ 2 PART2 V1 Bank Management system.exe
+C:\Users\Haseeb\source\repos\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\obj\Debug\PROJ 2 PART2 V1 Bank Management system.pdb
+C:\Users\Haseeb\Desktop\projects Done\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\bin\Debug\PROJ 2 PART2 V1 Bank Management system.exe.config
+C:\Users\Haseeb\Desktop\projects Done\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\bin\Debug\PROJ 2 PART2 V1 Bank Management system.exe
+C:\Users\Haseeb\Desktop\projects Done\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\bin\Debug\PROJ 2 PART2 V1 Bank Management system.pdb
+C:\Users\Haseeb\Desktop\projects Done\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\obj\Debug\PROJ 2 PART2 V1 Bank Management system.csproj.AssemblyReference.cache
+C:\Users\Haseeb\Desktop\projects Done\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\obj\Debug\PROJ 2 PART2 V1 Bank Management system.csproj.CoreCompileInputs.cache
+C:\Users\Haseeb\Desktop\projects Done\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\obj\Debug\PROJ 2 PART2 V1 Bank Management system.exe
+C:\Users\Haseeb\Desktop\projects Done\PROJ 2 PART2 V1 Bank Management system\PROJ 2 PART2 V1 Bank Management system\obj\Debug\PROJ 2 PART2 V1 Bank Management system.pdb

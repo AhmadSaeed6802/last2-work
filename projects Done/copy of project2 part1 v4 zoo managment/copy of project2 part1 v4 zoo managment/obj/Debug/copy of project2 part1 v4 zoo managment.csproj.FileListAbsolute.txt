@@ -1,0 +1,7 @@
+C:\Users\Haseeb\source\repos\copy of project2 part1 v4 zoo managment\copy of project2 part1 v4 zoo managment\bin\Debug\copy of project2 part1 v4 zoo managment.exe.config
+C:\Users\Haseeb\source\repos\copy of project2 part1 v4 zoo managment\copy of project2 part1 v4 zoo managment\bin\Debug\copy of project2 part1 v4 zoo managment.exe
+C:\Users\Haseeb\source\repos\copy of project2 part1 v4 zoo managment\copy of project2 part1 v4 zoo managment\bin\Debug\copy of project2 part1 v4 zoo managment.pdb
+C:\Users\Haseeb\source\repos\copy of project2 part1 v4 zoo managment\copy of project2 part1 v4 zoo managment\obj\Debug\copy of project2 part1 v4 zoo managment.csproj.AssemblyReference.cache
+C:\Users\Haseeb\source\repos\copy of project2 part1 v4 zoo managment\copy of project2 part1 v4 zoo managment\obj\Debug\copy of project2 part1 v4 zoo managment.csproj.CoreCompileInputs.cache
+C:\Users\Haseeb\source\repos\copy of project2 part1 v4 zoo managment\copy of project2 part1 v4 zoo managment\obj\Debug\copy of project2 part1 v4 zoo managment.exe
+C:\Users\Haseeb\source\repos\copy of project2 part1 v4 zoo managment\copy of project2 part1 v4 zoo managment\obj\Debug\copy of project2 part1 v4 zoo managment.pdb
